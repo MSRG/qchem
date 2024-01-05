@@ -1,0 +1,16 @@
+{
+    "XYZ_FILE": "/home/freeman/github/qchem-new/example/19.xyz",
+    "CHARGE": 0,
+    "SPIN": 0,
+    "BASIS": "sto3g",
+    "NUM_ACTIVE_ELECTRONS": 2,
+    "NUM_ACTIVE_ORBITALS": 2,
+    "ACTIVE_ORBITALS": [37, 38],
+    "MAPPER": "ParityMapper",
+    "ANSATZ": "hwe-1",
+    "OPTIMIZER": "COBYLA",
+    "BACKEND": "FakeLagos",
+    "SHOTS": 8192,
+    "OPTIMIZATION_LEVEL": 3,
+    "RESILIENCE_LEVEL": 6
+}

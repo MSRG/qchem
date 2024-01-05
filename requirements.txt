@@ -1,0 +1,6 @@
+qiskit==0.39.4
+qiskit-nature==0.5.2
+qiskit-ibm-runtime==0.8.0
+prototype-zne==1.0.0
+pyscf
+click

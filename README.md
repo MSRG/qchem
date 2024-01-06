@@ -1,7 +1,7 @@
 # Description
 VQE with STC is implemented entirely in `main.py`.
 Experiments can be performed with statevector, noisy simulation backends, and real devices.
-For completeness, older versions of the codebase (not using Qiskit runtime) can be found in the "main" branch.
+For completeness, older versions of the codebase (not using Qiskit runtime) can be found in the "legacy" branch.
 
 # Install
 Ensure Python version is 3.10 (recommended to use pyenv).
